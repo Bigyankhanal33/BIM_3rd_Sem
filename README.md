@@ -1,4 +1,5 @@
 # BIM_3rd_Sem
+Table
 <!-- <!DOCTYPE html>
 <html>
 <head>
@@ -27,7 +28,8 @@
 			</table>
 </body>
 </html> -->
-<!-- <!DOCTYPE html>
+<!--Form and Form validation 
+<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -71,7 +73,9 @@
 </script>
 </body>
 </html> -->
-<!-- <!DOCTYPE html>
+
+<!-- Form validation of user password
+ <!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
